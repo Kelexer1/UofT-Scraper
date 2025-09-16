@@ -1,0 +1,158 @@
+{
+    "divisionalLegends": {
+        "ERIN": "<table><caption>Legend 1</caption>\n<tbody>\n<tr>\n<td>\n<h4><span>Course Code</span></h4>\n</td>\n<td>\n<h4><span style=\"color: #bd2d34;\"><span><span style=\"color: #333333;\">Course Sections</span></span></span></h4>\n</td>\n</tr>\n<tr>\n<td>\n<table><caption>sub legend 1</caption>\n<tbody>\n<tr>\n<td><span style=\"color: #bd2d34;\">ANT102</span><span>H5F</span><br /><br /><span>The first 3 characters denote subject, the next 3 denote course number and course level.</span><br /><br /><span>ANT = Anthropology</span><br /><span>1** = First year course</span><br /><span>102 = Course number</span></td>\n<td><span>ANT102</span><span style=\"color: #bd2d34;\">H</span><span>5F</span><br /><br /><span>The next character denotes the credit value of the course.</span><br /><br /><span>H = Half credit course (0.5 credit)</span><br /><span>Y = Full credit course (1.0 credit)</span></td>\n<td><span>ANT102H</span><span style=\"color: #bd2d34;\">5</span><span>F</span><br /><br /><span>The next character denotes the campus.</span><br /><br /><span>1 = St. George Campus</span><br /><span>3 = Scarborough Campus</span><br /><span>5 = UTM Campus</span><br /><span>(This timetable only shows courses offered by the UTM campus)</span></td>\n<td><span>ANT102H5</span><span style=\"color: #bd2d34;\">F</span><br /><br /><span>The final character denotes the term.</span><br /><br /><span>F = First term course (May to June)</span><br /><span>S = Second term course (July to August)</span><br /><span>Y = Year course (May to August)</span></td>\n</tr>\n</tbody>\n</table>\n</td>\n<td><span style=\"color: #bd2d34;\">LEC</span><span>0101</span><br /><br /><span>The first 3 characters denote type of section.</span><br /><span>LEC = Lecture</span><br /><span>PRA = Practical (Lab)</span><br /><span>TUT = Tutorial</span><br /><br /><br /><span>LEC</span><span style=\"color: #bd2d34;\">0101</span><br /><br /><span>The last four digits indicate the meeting section number.</span></td>\n</tr>\n</tbody>\n</table>\n<table><caption>Legend 2</caption>\n<thead>\n<tr>\n<td>\n<h4><span>Building Codes</span></h4>\n</td>\n<td>\n<h4><span>Enrolment Controls</span></h4>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span>CC = Communication, Culture and Technology (CCT) Building</span><br /><span>DH = Deerfield Hall</span><br /><span>DV = Davis Building</span><br /><span>KN = Kaneff Building</span><br /><span>MN = Maanjiwe nendamowinan </span><br /><span>IB = Instructional Centre</span><br /><br /><span>SH = Sheridan College</span><br /><br /><span>ZZ = To be announced by your instructor</span><br /><br /><span>Please&nbsp;</span><a href=\"https://map.utoronto.ca/?id=1809#!ce/48514?ct/45469,48901?mc/43.548336,-79.6632?z/16?lvl/0\" target=\"_blank\">click here</a><span>&nbsp;for a map of UTM</span></td>\n<td><span>Specific enrolment controls for each course can be seen by clicking on the red </span><span>enrolment controls section.</span><br /><span>If this section is missing, there are no controls for that course</span><br /><br /><span>P = Priority. Some students are given priority access.</span><br /><br /><span>E = Enrolment on ACORN is disabled. Students must enrol through the department.</span><br /><br /><span>R = Restricted. Course is restricted at all times for specific students</span><br /><span>R1 = Restricted. Course is restricted at all times for specific students until specified date. After this date, enrolment is granted to additional groups of eligible students only.</span><br /><br /><span>A = Approval. Departmental approval is required</span><br /><span>AP = Departmental approval is required for enrolment. Some students are given priority access.</span><br /><span>AR = Departmental approval is required. Course is restricted at all times for specific students.</span></td>\n</tr>\n</tbody>\n</table>",
+        "SCAR": "<p><b><span>Terms:</span></b></p>\n<p><span>F = First Sub session course (May to Jun)</span><br /><span>S = Second Sub session course (Jun to Aug)</span><br /><span>Y = Full session course (May to Aug)</span></p>\n<p><b><span>Building</span></b><span> <b>Co</b></span><b><span>des:</span></b></p>\n<p>AA = Arts Administration</p>\n<p>AC = Academic Resource Center</p>\n<p>AQ = Toronto Pan Am Sports Centre</p>\n<p>BV = Bladen Wing</p>\n<p>EV = Environmental Sciences Building</p>\n<p>HL = Highland Hall</p>\n<p>HW = Humanities Wing</p>\n<p>IA = Sam Ibrahim Building</p>\n<p>IC = Instructional Centre</p>\n<p>KW = <span>Kina Wiiya Enadong Building</span></p>\n<p><span>SW = Science Wing</span></p>\n<p><span>SY = Science Research Building</span></p>\n<p><b>Delivery Modes of Classes</b></p>\n<ul>\n<li>IN PERSON:<span>&nbsp;</span>This meeting section is in-person. You will be required to attend this meeting section at a specific time and location. The course outline will provide specific details.</li>\n<li>HYBRID:<span>&nbsp;</span>This meeting section includes in-person and online activities. You will be required to attend some activities in-person at a specific time and location and some activities online (synchronous or asynchronous). The course outline will provide specific details.</li>\n<li>ONLINE SYNCHRONOUS:<span>&nbsp;</span>This meeting section is online and requires attendance at a specific time for class activities. Note: Online courses may require an in-person mid term and final assessment. The course outline will provide specific details.</li>\n<li>ONLINE ASYNCHRONOUS:<span>&nbsp;</span>This meeting section is online and does not require attendance at a specific time for class activities. Note: Online courses may require an in-person mid term and final assessment. The course outline will provide specific details.</li>\n</ul>\n<ul>\n<li>Not all courses listed in the Calendar are offered in each session.</li>\n<li>\n<p><span>Year 1 students (0 - 3.5 credits) will be blocked from registering into most C and D level courses as they do not meet pre-requisite requirements. Please check pre-requisite requirements before registering into courses. Students may be removed from courses that they do not meet the pre-requisite requirements for at any time.</span><span></span></p>\n</li>\n<li>Please go to <a href=\"https://www.utsc.utoronto.ca/ability/welcome-accessability-services\" target=\"_blank\">AccessAbility Services</a> for information about classroom accessibility</li>\n<li><a href=\"https://www.utsc.utoronto.ca/home/academic-departments-and-programs\" target=\"_blank\">Academic Departments</a></li>\n</ul>\n<h4>The timetable changes constantly. Check regularly for updates.&nbsp;</h4>"
+    },
+    "divisionalEnrolmentIndicators": {
+        "APSC": [],
+        "FIS": [],
+        "MUSIC": [
+            {
+                "code": "P",
+                "name": "Students enrolled in the specific programs/year indicated will receive priority during the first round of enrolment (July 3-31). During the second round of enrolment, the remaining spaces, if any, will be available to all students."
+            },
+            {
+                "code": "C",
+                "name": "Students can enrol in the course; final confirmation will be based on audition/interview during the first week of September."
+            },
+            {
+                "code": "E",
+                "name": "The Registrar\u2019s Office will add you to this course, once you have met the enrolment condition. This could include being enrolled in a certain program/ year of study, a placement audition, or approval of a proposal."
+            },
+            {
+                "code": "R",
+                "name": "The course is restricted to students in the specific program/year indicated at all times. Enrolment for others is only an option by obtaining written permission from the instructor of the course. Instructors may require an audition/interview prior to giving permission."
+            }
+        ],
+        "ERIN": [
+            {
+                "code": "A",
+                "name": "Departmental approval is required. The course will appear on student's ACORN record with a status of INTerim until the department has had an opportunity to review students' requests and APProve or REFuse the course. Fees charges will not appear on the student invoice until an APProved status is assigned."
+            },
+            {
+                "code": "AR",
+                "name": "Departmental approval is required for the course. The course will appear on student's ACORN record with a status of INTerim until the department has had an opportunity to review students' requests and APProve or REFuse the course. Fees charges will not appear on the student invoice until an APProved status is assigned. The course is restricted at all times to students in the following groups:"
+            },
+            {
+                "code": "R",
+                "name": "Course is restricted at all times to the following students:"
+            },
+            {
+                "code": "AP",
+                "name": "Departmental approval is required (i.e. the course will appear on student's ACORN record with a status of INTerim until the department has had an opportunity to review students' requests and APProve or REFuse the course) and priority is given to certain groups of students to enrol first and then the course becomes available to other UTM students on March 31 2025 at 6 am. April 8, 2025 at 6 am is the first day UTM students can add St. George/UTSC courses, and St. George/UTSC students can add UTM courses."
+            },
+            {
+                "code": "E",
+                "name": "Enrolment through ACORN is not available. Students must enrol through the department. Departmental approval is required."
+            },
+            {
+                "code": "P",
+                "name": "Priority is given to certain groups of students to enrol first and then the course becomes available to other UTM students on March 31 2025 at 6 am. April 8, 2025 at 6 am is the first day UTM students can add St. George/UTSC courses, and St. George/UTSC students can add UTM courses."
+            },
+            {
+                "code": "R1",
+                "name": "The course is restricted at all times to students in the following groups:"
+            }
+        ],
+        "SCAR": [
+            {
+                "code": "A",
+                "name": "Students request the course on ACORN but will not be officially enrolled until approval has been granted. Check your status through ACORN to see whether you have been approved. (APP = approval; REF = refused; INT = no decision yet).\n<br><br>\nEnrollment will open to UTSG and UTM students on April 8, 2025."
+            },
+            {
+                "code": "P",
+                "name": "Priority is given to certain groups of students until 6am on April 1, 2025, then the course becomes available to all UTSC students. Enrollment will open to UTSG and UTM students on April 8, 2025. Currently, students in the following programs can enroll:"
+            },
+            {
+                "code": "R",
+                "name": "This course is restricted to students in the following groups:"
+            },
+            {
+                "code": "E",
+                "name": "Enrolment through ACORN is not available."
+            },
+            {
+                "code": "RP",
+                "name": "Priority is given to certain groups of students until 10am on April 1, 2025, then the course will become available to an additional group of students. Currently, students in the following programs can enroll:"
+            },
+            {
+                "code": "AP",
+                "name": "Students request the course on ACORN but will not be officially enrolled until approval has been granted. Check your status through ACORN to see whether you have been approved. (APP = approval; REF = refused; INT = no decision yet).\n<br><br>\nPriority is given to certain groups of students until 6am on April 1, 2025, then the course becomes available to all UTSC students. Enrollment will open to UTSG and UTM students on April 8, 2025. Currently, students in the following programs can enroll"
+            },
+            {
+                "code": "AR",
+                "name": "Students request the course on ACORN but will not be officially enrolled until approval has been granted. Check your status through ACORN to see whether you have been approved. (APP = approval; REF = refused; INT = no decision yet).\n<br><br>\nThis course is restricted to students in the following groups:"
+            },
+            {
+                "code": "RP*",
+                "name": "Students request the course on ACORN but will not be officially enrolled until approval has been granted. Check your status through ACORN to see whether you have been approved. (APP = approval; REF = refused; INT = no decision yet).\n<br><br>\nPriority is given to certain groups of students until 10am on April 1, 2025, then the course will become available to an additional group of students. Currently, students in the following programs can enroll:"
+            }
+        ],
+        "ARTSC": [
+            {
+                "code": "E",
+                "name": "Enrolment via ACORN is not available. Students must request permission to enrol in this course by contacting the sponsoring department. "
+            },
+            {
+                "code": "P",
+                "name": "Priority enrolment is given to certain students until March 9. As of March 10 other Arts & Science students can begin to enrol. Beginning April 7, other St. George campus students can enrol in this section. UTM/UTSC students can enrol in this section starting April 8. Currently the following groups of students can enrol:"
+            },
+            {
+                "code": "R2",
+                "name": "This section is restricted to two groups of students. Group 1 is given priority access until March 9. Beginning March 10, Group 2 can enrol in this section. Currently the following groups of students can enrol in this section:"
+            },
+            {
+                "code": "A",
+                "name": "This section requires approval for enrolment. The course can be requested on ACORN and will be added with an interim (INT) status which will then either be approved (APP) or refused (REF) by the academic unit."
+            },
+            {
+                "code": "AR1",
+                "name": "This section requires approval for enrolment. The course can be requested on ACORN and will be added with an interim (INT) status which will then either be approved (APP) or refused (REF) by the academic unit. This section is also restricted at all times to the students listed below."
+            },
+            {
+                "code": "R1*",
+                "name": "This section is restricted at all times to the students listed below. NOTE: Spaces for each priority group in this course are not equal, and each priority group has its own waitlist until March 5. As of March 6, the waitlists for each priority group merge into one, and your rank on the waitlist may change."
+            },
+            {
+                "code": "R1",
+                "name": "Restricted: Course/section is restricted at all times for specific students."
+            },
+            {
+                "code": "AP",
+                "name": "This section requires approval for enrolment. The course can be requested on ACORN and will be added with an interim (INT) status which will then either be approved (APP) or refused (REF) by the academic unit. Priority enrolment is also given to the groups of students listed below until March 5. Beginning March 6, all other Arts & Science students can enrol in this section (requiring approval). UTM/UTSC students can enrol in this section starting April 12. Currently the following groups of students can enrol in this section:"
+            },
+            {
+                "code": "P*",
+                "name": "Priority: NOTE: Spaces for each priority group in this course are not equal, and each priority group has its own waitlist until March 9. As of March 10, the waitlists for each priority group merge into one, and your rank on the waitlist may change; this is also when other Arts & Science students can begin to enrol. Beginning April 7 other St. George campus students can enrol in this section.  UTM/UTSC students can enrol in this section starting April 8. Currently the following groups of students can enrol:"
+            },
+            {
+                "code": "R2*",
+                "name": "This section is restricted to two groups of students. NOTE: Spaces for each priority group in this course are not equal, and each priority group has its own waitlist until March 5. As of March 6, the waitlists for each priority group merge into one, and your rank on the waitlist may change. Group 1 is given priority access until March 5. Beginning March 6, Group 2 can enrol in this section. Currently the following groups of students can enrol in this section:"
+            }
+        ],
+        "FPEH": [
+            {
+                "code": "AE",
+                "name": "<p>Enrol via KPE Registrar\u2019s Office. Students must enrol via the relevant process as administered by the KPE Registrar\u2019s Office. <a href=\"https://kpe.utoronto.ca/academics-researchcurrent-studentsundergraduate-studies/bkin-research\" class=\"external-link\" target=\"_blank\" rel=\"nofollow noopener\">https://kpe.utoronto.ca/academics-researchcurrent-studentsundergraduate-studies/bkin-research</a></p>"
+            },
+            {
+                "code": "E",
+                "name": "<p>Enrol via KPE Registrar\u2019s Office. Students must enrol via the relevant process as administered by the KPE Registrar\u2019s Office. <a href=\"https://kpe.utoronto.ca/academics-researchcurrent-studentsundergraduate-studies/bkin-field-learning\" class=\"external-link\" target=\"_blank\" rel=\"nofollow noopener\">https://kpe.utoronto.ca/academics-researchcurrent-studentsundergraduate-studies/bkin-field-learning</a>.</p>"
+            }
+        ],
+        "ARCLA": [
+            {
+                "code": "E",
+                "name": "Enrolment is not available through ACORN. If additional entry restrictions apply, they will be listed beside the 'E' enrolment controls shown at the course level. Students may enrol only through the Office of the Registrar, John H. Daniels Faculty of Architecture, Landscape and Design."
+            },
+            {
+                "code": "P",
+                "name": "Priority Enrolment provides an opportunity for students in certain groups to enrol/waitlist in this course before others. \u00a0The groups listed below are currently able to enrol/waitlist. \u00a0To find the dates when additional students may enrol, please see the section related to Priority Enrolment in the Architecture, Landscape, and Design, John H. Daniels Legend."
+            },
+            {
+                "code": "R",
+                "name": "Restricted courses are available only to the groups of students indicated below:"
+            }
+        ]
+    }
+}

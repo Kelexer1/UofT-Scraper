@@ -1,0 +1,88 @@
+{
+    "currentSessions": {
+        "Summer-20255": {
+            "label": "Summer 2025",
+            "value": "Summer",
+            "subsessions": [
+                {
+                    "label": "Summer First Sub-Session 2025 (F)",
+                    "value": "20255F"
+                },
+                {
+                    "label": "Summer Second Sub-Session 2025 (S)",
+                    "value": "20255S"
+                },
+                {
+                    "label": "Summer Full Session 2025 (Y)",
+                    "value": "20255"
+                }
+            ]
+        },
+        "FallWinter-20259-20261": {
+            "label": "Fall-Winter 2025-2026",
+            "value": "Fall-Winter",
+            "subsessions": [
+                {
+                    "label": "Fall 2025 (F)",
+                    "value": "20259"
+                },
+                {
+                    "label": "Winter 2026  (S)",
+                    "value": "20261"
+                },
+                {
+                    "label": "Fall-Winter 2025-2026 (Y)",
+                    "value": "20259-20261"
+                }
+            ]
+        }
+    },
+    "divisions": [
+        {
+            "label": "Faculty of Applied Science & Engineering",
+            "value": "APSC"
+        },
+        {
+            "label": "Faculty of Arts and Science",
+            "value": "ARTSC"
+        },
+        {
+            "label": "Faculty of Information",
+            "value": "FIS"
+        },
+        {
+            "label": "Faculty of Kinesiology and Physical Education",
+            "value": "FPEH"
+        },
+        {
+            "label": "Faculty of Music",
+            "value": "MUSIC"
+        },
+        {
+            "label": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+            "value": "ARCLA"
+        },
+        {
+            "label": "University of Toronto Mississauga",
+            "value": "ERIN"
+        },
+        {
+            "label": "University of Toronto Scarborough",
+            "value": "SCAR"
+        }
+    ],
+    "campuses": [
+        {
+            "label": "Scarborough",
+            "value": "Scarborough"
+        },
+        {
+            "label": "Mississauga",
+            "value": "University of Toronto at Mississauga"
+        },
+        {
+            "label": "St. George",
+            "value": "St. George"
+        }
+    ]
+}
